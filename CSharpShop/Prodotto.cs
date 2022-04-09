@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace CsharpShop
 {
-    //CLASSE PRODOTTO ---------------
+    //----------- CLASSE PRODOTTO ---------------
     internal class Prodotto
     {
 
-        // VARIABILI --------------
+        //---------- DICHIARO LE VARIABILI --------------
         private int codiceProdotto;
         private string nomeProdotto;
         private string descrizione;
